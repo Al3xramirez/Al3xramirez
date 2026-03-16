@@ -42,30 +42,18 @@ Im always willing try and learn about the next peice of the never ending list of
   <img src="https://cdn.simpleicons.org/r" width="32" height="32" style="display:block;margin:0 auto;" />
   <span style="font-size:11px;display:block;margin-top:4px;">R</span>
 </span>
-
-### Frontend
-
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
   <img src="https://cdn.simpleicons.org/vuedotjs" width="32" height="32" style="display:block;margin:0 auto;" />
   <span style="font-size:11px;display:block;margin-top:4px;">Vue.js</span>
 </span>
-
-### Backend
-
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
   <img src="https://cdn.simpleicons.org/spring" width="32" height="32" style="display:block;margin:0 auto;" />
   <span style="font-size:11px;display:block;margin-top:4px;">Spring Boot</span>
 </span>
-
-### Databases
-
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
   <img src="https://cdn.simpleicons.org/mysql" width="32" height="32" style="display:block;margin:0 auto;" />
   <span style="font-size:11px;display:block;margin-top:4px;">MySQL</span>
 </span>
-
-### DevOps & Tools
-
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
   <img src="https://cdn.simpleicons.org/git" width="32" height="32" style="display:block;margin:0 auto;" />
   <span style="font-size:11px;display:block;margin-top:4px;">Git</span>
