@@ -6,14 +6,10 @@ I have dabbled in alot of things during my studies at EWU but some of the things
 Im always willing try and learn about the next peice of the never ending list of languages and services out there!
 
 ## 📬 Contact
-<div style="height:fit-content;display:flex;flex-wrap:wrap; gap: 10px;"><span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
+<div style="height:fit-content;display:flex;flex-wrap:wrap; gap: 10px;">
+      <span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
       <img src="https://cdn-icons-png.flaticon.com/128/15889/15889542.png" width="20" height="20" />
       <a href="mailto:alexramirezperez14@gmail.com">alexramirezperez14@gmail.com</a>
-    </span>
-
-<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
-      <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width="20" height="20" />
-      <a href="https://github.com/Al3xramirez">GitHub</a>
     </span>
 
 </div>
