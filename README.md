@@ -16,54 +16,32 @@ Im always willing try and learn about the next peice of the never ending list of
 
 ## 🧠 Skills
 
-### Languages
+## 🧠 Skills
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;"></span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/python" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;"></span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;"></span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;"></span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/r" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;"></span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/vuedotjs" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;"></span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/spring" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;"></span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/mysql" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;"></span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/git" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;"></span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/github" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;"></span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;"></span>
-</span>
+<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:flex-end;">
+  <span><img src="https://cdn.simpleicons.org/javascript" width="32" height="32" /></span>
+  <span><img src="https://cdn.simpleicons.org/python" width="32" height="32" /></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" height="32" /></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="32" height="32" /></span>
+  <span><img src="https://cdn.simpleicons.org/r" width="32" height="32" /></span>
+  <span><img src="https://cdn.simpleicons.org/vuedotjs" width="32" height="32" /></span>
+  <span><img src="https://cdn.simpleicons.org/spring" width="32" height="32" /></span>
+  <span><img src="https://cdn.simpleicons.org/mysql" width="32" height="32" /></span>
+  <span><img src="https://cdn.simpleicons.org/git" width="32" height="32" /></span>
+  <span><img src="https://cdn.simpleicons.org/github" width="32" height="32" /></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="32" height="32" /></span>
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al3xramirez&layout=compact)
+##
+  <div style="flex-basis:100%; margin-top:10px;">
+    <div style="margin-left:40px;">
+      <a href="https://git.io/streak-stats">
+        <img
+          src="https://streak-stats.demolab.com?user=Al3xramirez&theme=dark"
+          alt="GitHub Streak"
+          width="520"
+        />
+      </a>
+    </div>
+  </div>
+</div>
 
