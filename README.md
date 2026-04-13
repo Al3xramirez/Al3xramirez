@@ -16,8 +16,6 @@ Im always willing try and learn about the next peice of the never ending list of
 
 ## 🧠 Skills
 
-## 🧠 Skills
-
 <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:flex-end;">
   <span><img src="https://cdn.simpleicons.org/javascript" width="32" height="32" /></span>
   <span><img src="https://cdn.simpleicons.org/python" width="32" height="32" /></span>
