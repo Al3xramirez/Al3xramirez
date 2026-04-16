@@ -16,18 +16,19 @@ Im always willing try and learn about the next peice of the never ending list of
 
 ## 🧠 Skills
 
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:flex-end;">
-  <span><img src="https://cdn.simpleicons.org/javascript" width="32" height="32" /></span>
-  <span><img src="https://cdn.simpleicons.org/python" width="32" height="32" /></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" height="32" /></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="32" height="32" /></span>
-  <span><img src="https://cdn.simpleicons.org/r" width="32" height="32" /></span>
-  <span><img src="https://cdn.simpleicons.org/vuedotjs" width="32" height="32" /></span>
-  <span><img src="https://cdn.simpleicons.org/spring" width="32" height="32" /></span>
-  <span><img src="https://cdn.simpleicons.org/mysql" width="32" height="32" /></span>
-  <span><img src="https://cdn.simpleicons.org/git" width="32" height="32" /></span>
-  <span><img src="https://cdn.simpleicons.org/github" width="32" height="32" /></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="32" height="32" /></span>
+<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+  <img src="https://cdn.simpleicons.org/javascript" width="32" />
+  <img src="https://cdn.simpleicons.org/python" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="32" />
+  <img src="https://cdn.simpleicons.org/r" width="32" />
+  <img src="https://cdn.simpleicons.org/vuedotjs" width="32" />
+  <img src="https://cdn.simpleicons.org/spring" width="32" />
+  <img src="https://cdn.simpleicons.org/mysql" width="32" />
+  <img src="https://cdn.simpleicons.org/git" width="32" />
+  <img src="https://cdn.simpleicons.org/github" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="32" />
+</div>
 
 ##
   <div style="flex-basis:100%; margin-top:10px;">
