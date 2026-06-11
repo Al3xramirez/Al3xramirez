@@ -9,7 +9,7 @@ I have dabbled in a lot of things during my studies at EWU, but some of the thin
 
 <a href="mailto:alexramirezperez14@gmail.com">alexramirezperez14@gmail.com</a>
 
-<a href="www.linkedin.com/in/alejandro-ramirez-perez">www.linkedin.com/in/alejandro-ramirez-perez</a>
+<a href="www.linkedin.com/in/alejandro-ramirez-perez/">www.linkedin.com/in/alejandro-ramirez-perez/</a>
 
 ## Skills
 
