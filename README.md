@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello Everyone. Myy name is **Alejandro**, I'm currently a senior at Eastern Washington University pursuing an undergrad in Computer Science.
+Hello Everyone. My name is **Alejandro**, I'm a recent CS graduate at Eastern Washington University.
 I have dabbled in a lot of things during my studies at EWU, but some of the things that have stuck with me the most were Java, working with Unity and VR implementation, Vue website building, OpenGL with C++, and most recently, DevOps using Web App deployment, DB configuration, and CI/CD with Azure Services. I'm always willing to try and learn about the next piece of the never-ending list of languages and services out there!
 
 ## Contact
@@ -24,15 +24,12 @@ I have dabbled in a lot of things during my studies at EWU, but some of the thin
 <img src="https://cdn.simpleicons.org/git" width="32" />
 <img src="https://cdn.simpleicons.org/github" width="32" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="32" />
-
 <br><br>
 
 <a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com?user=Al3xramirez&theme=dark"
-    alt="GitHub Streak"
-    width="520"
-  />
+  <img src="https://streak-stats.demolab.com?user=Al3xramirez&theme=dark" alt="GitHub Streak" width="520"/>
 </a>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Al3xramirez&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 
-</div>
+
