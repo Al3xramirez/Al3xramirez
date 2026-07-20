@@ -22,14 +22,18 @@ I have dabbled in a lot of things during my studies at EWU, but some of the thin
 <img src="https://cdn.simpleicons.org/spring" width="32" />
 <img src="https://cdn.simpleicons.org/mysql" width="32" />
 <img src="https://cdn.simpleicons.org/git" width="32" />
-<img src="https://cdn.simpleicons.org/github" width="32" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32"/>
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"  width="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width ="32"/>
+
+
 <br><br>
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Al3xramirez&theme=dark" alt="GitHub Streak" width="520"/>
 </a>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Al3xramirez&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Al3xramirez&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 
 
