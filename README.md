@@ -2,9 +2,7 @@
 
 ## About Me
 
-Hello Everyone. My name is **Alejandro**, I'm a recent CS graduate at Eastern Washington University.
-I have dabbled in a lot of things during my studies at EWU, but some of the things that have stuck with me the most were Java, working with Unity and VR implementation, Vue website building, OpenGL with C++, and most recently, DevOps using Web App deployment, DB configuration, and CI/CD with Azure Services. I'm always willing to try and learn about the next piece of the never-ending list of languages and services out there!
-
+Hello everyone! I'm Alejandro, a recent Computer Science graduate from Eastern Washington University. My background spans the full stack — from building interactive front-end experiences with Vue to game development and VR implementation in Unity. What's captured most of my attention lately, though, is DevOps: designing and deploying full-stack applications end-to-end using Azure services, covering everything from web app deployment and database configuration to setting up CI/CD pipelines that keep the whole system shipping smoothly. I like thinking about software from a scalability point of view, how it's built, tested, deployed, and kept running and I'm always looking to pick up the next language or service that helps me do that better.
 ## Contact
 
 <a href="mailto:alexramirezperez14@gmail.com">Gmail</a>
